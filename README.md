@@ -2,6 +2,12 @@
 
 Turn any Google Sheet into an automated calling system. Your sheet calls people, has natural conversations, and logs results back automatically.
 
+## 🎥 Watch the Demo
+
+[![Demo Video](https://img.youtube.com/vi/hW7thWRaFLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=hW7thWRaFLE)
+
+**[▶️ Watch the full demo on YouTube](https://www.youtube.com/watch?v=hW7thWRaFLE)**
+
 **Time to complete:** 30 minutes  
 **Difficulty:** Beginner  
 **Cost:** Free tier available
