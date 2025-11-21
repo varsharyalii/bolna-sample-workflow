@@ -8,7 +8,7 @@ Turn any Google Sheet into an automated calling system. Your sheet calls people,
 
 **[▶️ Watch the full demo on YouTube](https://www.youtube.com/watch?v=hW7thWRaFLE)**
 
-**Time to complete:** 30 minutes  
+**Time to complete:** 10 minutes  
 **Difficulty:** Beginner  
 **Cost:** Free tier available
 
